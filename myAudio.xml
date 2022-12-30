@@ -1,0 +1,17 @@
+<!--********** Copyright 2016 Roku Corp.  All Rights Reserved. **********-->
+<content>
+<item streamformat="mp3" title="EJ Main Menu" url="http://www.sdktestinglab.com/Tutorial/sounds/mainmenu.mp3">
+<item streamformat="mp3" title="Renderable Nodes" url="http://www.sdktestinglab.com/Tutorial/sounds/renderables.mp3">
+<item streamformat="mp3" title="Z-Order/Parent-Child" url="http://www.sdktestinglab.com/Tutorial/sounds/sgorder.mp3">
+<item streamformat="mp3" title="Animations" url="http://www.sdktestinglab.com/Tutorial/sounds/animations.mp3">
+<item streamformat="mp3" title="Events and Observers" url="http://www.sdktestinglab.com/Tutorial/sounds/eventsobservers.mp3">
+<item streamformat="mp3" title="Typography" url="http://www.sdktestinglab.com/Tutorial/sounds/typography.mp3">
+<item streamformat="mp3" title="Control Nodes" url="http://www.sdktestinglab.com/Tutorial/sounds/control.mp3">
+<item streamformat="mp3" title="Lists and Grids" url="http://www.sdktestinglab.com/Tutorial/sounds/listsgrids.mp3">
+<item streamformat="mp3" title="Dialogs" url="http://www.sdktestinglab.com/Tutorial/sounds/dialogs.mp3">
+<item streamformat="mp3" title="Widgets" url="http://www.sdktestinglab.com/Tutorial/sounds/widgets.mp3">
+<item streamformat="mp3" title="Layout/Groups" url="http://www.sdktestinglab.com/Tutorial/sounds/layoutgroups.mp3">
+<item streamformat="mp3" title="Sliding Panels" url="http://www.sdktestinglab.com/Tutorial/sounds/panels.mp3">
+<item streamformat="mp3" title="Media Playback" url="http://www.sdktestinglab.com/Tutorial/sounds/media.mp3">
+<item streamformat="mp3" title="Audio Node" url="http://www.sdktestinglab.com/Tutorial/sounds/audionode.mp3">
+</item></item></item></item></item></item></item></item></item></item></item></item></item></item></content>
